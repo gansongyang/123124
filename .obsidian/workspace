@@ -12,19 +12,26 @@
             {
               "leaf": "a1bfff15699aa6ae",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Index for Cards.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a1bfff15699aa6ae",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/About Cards.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a1bfff15699aa6ae",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-10-04.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Calendar/Daily notes/2022-10-04.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,6 +49,10 @@
           {
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -78,13 +89,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧰 本库指南/Tutorials/快速开始.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           }
@@ -100,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calendar/Daily notes/2022-10-04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -111,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2022-10-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2022-10-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2022-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +199,10 @@
     "width": 246.67393493652344,
     "collapsed": true
   },
-  "active": "a1bfff15699aa6ae",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
+    "Cards/About Cards.md",
+    "Calendar/Daily notes/2022-10-04.md",
     "Calendar/Daily notes/2022-09-09.md",
     "README.md",
     "🧰 本库指南/Tutorials/快速开始.md",
@@ -207,8 +210,6 @@
     "Calendar/Daily notes/2022-09-08.md",
     "Spaces/2-Area/个人职业生涯/hxw的个人述职 - 批注.md",
     "Spaces/2-Area/个人职业生涯/∑ 个人职业生涯.md",
-    "🧰 本库指南/🧰 本库使用指南.md",
-    "HOMEPAGE.md",
-    "AboutTheGarden.md"
+    "🧰 本库指南/🧰 本库使用指南.md"
   ]
 }
