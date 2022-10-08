@@ -1,7 +1,12 @@
 ---
-title: Consistency is key
+date created: 2022-10-04
+date modified: 2022-10-08
+mindmap-plugin: basic
+title: consistency
 ---
 
-Show up. Do the work. Be consistent.
+# dfg
 
-Then go take a look at the [[Your first note|first note]].
+## Sub title
+
+## Sub title
