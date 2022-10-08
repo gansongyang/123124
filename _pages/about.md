@@ -1,7 +1,9 @@
 ---
+date created: 2022-10-04
+date modified: 2022-10-08
 layout: page
-title: About
 permalink: /about
+title: about
 ---
 
 *This is an about page.*
