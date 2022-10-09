@@ -4,10 +4,9 @@ date modified: 2022-10-09
 id: home
 layout: page
 permalink: /
-title: Welcome! 
+title: 'Welcome! '
 ---
 
-# Welcome! 
+# Welcome!
 
 1. [[distance reporting]]
-2. 
