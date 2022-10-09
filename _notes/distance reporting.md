@@ -10,3 +10,6 @@ title: distance reporting method
 2. direct-location
 3. spatial representation
 [[@ahrensINTERPOLATIONRANGEEXTRAPOLATION]]
+
+[[@ahrensComputationSphericalHarmonic2021]]
+[[@ahrensSinglelayerPotentialApproach]]
