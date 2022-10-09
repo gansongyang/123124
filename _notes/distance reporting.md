@@ -1,7 +1,7 @@
 ---
 date created: 2022-10-04
 date modified: 2022-10-09
-title: your-first-note
+title: distance reporting method
 ---
 
 三类distance reporting method
