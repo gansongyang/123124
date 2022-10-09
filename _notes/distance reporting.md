@@ -9,7 +9,5 @@ title: distance reporting method
 1. verbal report
 2. direct-location
 3. spatial representation
-[[@ahrensINTERPOLATIONRANGEEXTRAPOLATION]]
 
-[[@ahrensComputationSphericalHarmonic2021]]
-[[@ahrensSinglelayerPotentialApproach]]
+[[@Tom Bäckström  2019]]
