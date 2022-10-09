@@ -9,4 +9,4 @@ title: distance reporting method
 1. verbal report
 2. direct-location
 3. spatial representation
-[[@delikaris-maniasParametricSpatialAudio2017]]
+[[@ahrensHRTFMAGNITUDEMODELING]]
