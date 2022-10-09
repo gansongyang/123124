@@ -4,7 +4,7 @@ date modified: 2022-10-09
 title: distance reporting
 ---
 
-三类distance reporting method
+三类distance reporting method [[@Vincent Martin  2022]]
 
 1. verbal report
 2. direct-location
