@@ -34,3 +34,7 @@ VSB在时域上构建谐波的常见算法。特点是：
 **1. undesirable distortion**
 - induces perceptually unpleasant and discordant artifacts.
 ![[Screen Shot 2022-10-24 at 10.22.09.png]]
+
+
+
+对于gain的选择，a weighting 对低频的降幅太多，不适合当前音乐的特性，所以选择k weighting
